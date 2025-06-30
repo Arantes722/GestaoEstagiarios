@@ -1,0 +1,49 @@
+.form-control, .form-select {
+    height: 38px;
+    font-size: 0.9rem;
+}
+
+.form-control::placeholder {
+    font-style: italic;
+    color: #a3a3a3;
+}
+
+.d-flex.justify-content-between.align-items-center.mb-4 {
+    margin-bottom: 1.5rem !important;
+}
+
+.btn.btn-dark {
+    height: 38px;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+form.d-flex > *:not(:last-child) {
+    margin-right: 0.75rem;
+}
+
+.table-hover tbody tr:hover {
+    background-color: rgba(120, 144, 156, 0.1);
+    transition: background-color 0.3s ease;
+}
+
+.table thead th {
+    font-weight: 600;
+    letter-spacing: 0.05em;
+}
+
+.d-flex.justify-content-between.align-items-center.mb-4 > a.btn {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+
+.card-footer {
+    background-color: #f8f9fa;
+}
+
+.text-muted {
+    font-style: italic;
+}
+

@@ -1,0 +1,16 @@
+[90m= [39m[34;4mApp\Models\Utilizador[39;24m {#6414
+    [34mnome[39m: "[32mEstagiário João[39m",
+    [34memail[39m: "[32mjoao@exemplo.com[39m",
+    #[33msenha[39m: "[32m$2y$12$Mh5xyJUFijhfw7F1nwD.9./O0a9CyoNumwD23I2MOQY1uPzau4cam[39m",
+    [34mtelefone[39m: "[32m912345678[39m",
+    [34mlocalizacao[39m: "[32mBraga[39m",
+    [34msobre[39m: "[32mEstagiário de informática[39m",
+    [34mtipo_utilizador[39m: "[32mestagiario[39m",
+    [34memail_verificado_em[39m: [34;4mIlluminate\Support\Carbon @1749817660[39;24m {#6434
+      [34mdate[39m: [36m2025-06-13 12:27:40.452619 UTC (+00:00)[39m,
+    },
+    [34mupdated_at[39m: "[32m2025-06-13 12:27:40[39m",
+    [34mcreated_at[39m: "[32m2025-06-13 12:27:40[39m",
+    [34mutilizador_id[39m: [35m2[39m,
+  }
+
